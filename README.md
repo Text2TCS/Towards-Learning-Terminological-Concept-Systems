@@ -9,7 +9,7 @@ Architecture for extracting terminological concepts systems from natural languag
 
 ## Example Output
 The resulting terminological concept system is returned in a TBX format as well as connected graph (see below).   
-![PicExampleGraphOutput](/example_output_graph.png)
+<img src="/example_output_graph.png" alt="PicExampleGraphOutput" width="200"/>
 
 ## Term Extraction Scores
 
