@@ -22,3 +22,23 @@ The resulting terminological concept system is returned in a TBX format as well 
 |  ACL RD-TEC Annotator 2 |  80.1 | 79.3  | 80.0  |
 
 ## Relation Extraction Scores
+
+|  Relation Type | Precicion |  Recall |  F1 |  
+|---|---|---|---|
+|  synonymy|  0.85 |  0.76 |  0.80 |   
+| activityRelation (e1,e2) |  0.93 | 0.97 |  0.95 |   
+|  activityRelation (e2,e1) |  0.00 | 0.00 | 0.00  |
+|  associativeRelation |  0.90 | 0.92  | 0.91  |
+|  causalRelation (e1,e2) | 0.90  |  0.95 |  0.92 |
+|  causalRelation (e2,e1) |  0.92 |  0.91 |  0.91 |
+|  genericRelation (e1,e2) |  0.90 | 0.93  | 0.92  |
+|  genericRelation (e2,e1) |  0.46 | 0.41  | 0.43  |
+|  instrumentalRelation (e1,e2) | 0.72  | 0.68  |  0.70 |
+|  instrumentalRelation (e2,e1) |  0.85 |  0.88 |  0.86 |
+|  none | 0.69  |  0.44 |  0.54 |
+|  originationRelation (e1,e2) | 0.83  |  0.89 |  0.86 |
+|  originationRelation (e2,e1) |  0.84|  0.83 | 0.83  |
+|  partitiveRelation (e1,e2) |  0.90 |  0.85 |  0.87 |
+|  partitiveRelation (e2,e1) |  0.77 |  0.77 |  0.77 |
+|  spatialRelation (e1,e2) |  0.90 |  0.91 |  0.91 |
+|  spatialRelation (e2,e1) |  0.90 |   0.82| 0.86  |
