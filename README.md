@@ -4,7 +4,7 @@
 ADD REFERNENCE WHEN PUBLISHED (LDK 2021)
 
 ## Architecture
-Architecture for extracting terminological concepts systems from natural languae.
+Architecture for extracting terminological concepts systems from natural language.
 ![PicArchitecture](/architecture.png)
 
 ## Example Output
