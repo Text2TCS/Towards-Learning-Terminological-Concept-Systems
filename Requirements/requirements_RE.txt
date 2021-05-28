@@ -1,0 +1,11 @@
+sacremoses==0.0.45
+seaborn==0.11.1
+torch==1.8.1+cu101
+nltk==3.2.5
+numpy==1.19.5
+pandas==1.1.5
+sentencepiece==0.1.95
+spacy==2.2.4
+transformers==4.6.1
+matplotlib==3.2.2
+scikit_learn==0.24.2
