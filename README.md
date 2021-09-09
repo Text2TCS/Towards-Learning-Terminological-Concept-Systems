@@ -1,7 +1,8 @@
 # Towards Learning Terminological Concept Systems from Multilingual Natural Language Text
 
 ## Reference
-ADD REFERNENCE WHEN PUBLISHED (LDK 2021)
+Wachowiak, L., Lang, C., Heinisch, B., & Gromann, D. (2021). Towards Learning Terminological Concept Systems from Multilingual Natural Language Text. In 3rd Conference on Language, Data and Knowledge (LDK 2021). Schloss Dagstuhl-Leibniz-Zentrum für Informatik.
+Chicago	[(PDF)](https://drops.dagstuhl.de/opus/volltexte/2021/14558/pdf/OASIcs-LDK-2021-22.pdf)
 
 ## Architecture
 Architecture for extracting terminological concepts systems from natural language.
