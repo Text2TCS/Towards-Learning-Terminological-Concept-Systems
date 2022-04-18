@@ -2,7 +2,9 @@
 
 ## Reference
 Wachowiak, L., Lang, C., Heinisch, B., & Gromann, D. (2021). Towards Learning Terminological Concept Systems from Multilingual Natural Language Text. In 3rd Conference on Language, Data and Knowledge (LDK 2021). Schloss Dagstuhl-Leibniz-Zentrum für Informatik.
-Chicago	[(PDF)](https://drops.dagstuhl.de/opus/volltexte/2021/14558/pdf/OASIcs-LDK-2021-22.pdf)
+Chicago	
+- [PDF](https://drops.dagstuhl.de/opus/volltexte/2021/14558/pdf/OASIcs-LDK-2021-22.pdf)
+- [Video Presentation](https://www.youtube.com/watch?v=Kb8bnb15VLI)
 
 ## Try it Out
 If you just want to try out the service without using the code provided here you can use our [implementation made available on the European Language Grid](https://live.european-language-grid.eu/catalogue/tool-service/8122). However, the implemenation on the European Language Grid utilizes a slightly improved architecture as well as a different dataset for model-training; an updated description will be made available soon. 
